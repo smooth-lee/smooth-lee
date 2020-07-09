@@ -1,6 +1,6 @@
-# 💻 Hello! :)
+💻 Hello! :)
 
-## Blog : [https://smoothlog.com](https://smoothlog.com)
+Blog : [https://smoothlog.com](https://smoothlog.com)
 
 <!--
 **smooth-lee/smooth-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
