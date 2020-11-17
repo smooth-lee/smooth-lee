@@ -2,6 +2,8 @@
 
 Blog : [https://smoothlog.com](https://smoothlog.com)
 
+[![SmoothLee's github stats](https://github-readme-stats.vercel.app/api?username=smooth-lee)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **smooth-lee/smooth-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
